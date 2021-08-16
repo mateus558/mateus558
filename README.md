@@ -18,6 +18,11 @@
   <a href="https://www.instagram.com/mateuscmarim/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
+  
+##
+  
+![](https://komarev.com/ghpvc/?username=mateus558&style=flat-square&color=64C9CF&label=PROFILE+VIEWS)
+
 <!--
 **mateus558/mateus558** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
